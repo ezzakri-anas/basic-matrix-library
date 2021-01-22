@@ -2,7 +2,7 @@
 A basic library written in python to perform basic operations on vectors and two-dimensional matrices.
 
 
-No other packages are required for this project.
+No additional packages are required for this project.
 
 # Future improvements
 - Add support for multidimensional matrices.
